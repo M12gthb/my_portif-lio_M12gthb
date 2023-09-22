@@ -29,7 +29,7 @@ import {
 
 export const Home = (): JSX.Element => {
   const gihubUrl = `https://github.com/${userData.githubUser}`;
-  const portfolioUrl = `https://github.com/Kenzie-Academy-Brasil-Developers/kenzie-portifolio-2`;
+  const portfolioUrl = `https://github.com/M12gthb/my_portif-lio_M12gthb`;
 
   return (
     <main id="home">
