@@ -51,7 +51,6 @@ export const StackCard = styled("div", {
       transform: "translateY(-180%)",
       animation: `${scaleUp} 200ms`,
     },
-    width: "60px",
-    height: "60px",
+    height: "80px",
   },
 });

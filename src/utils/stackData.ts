@@ -8,6 +8,8 @@ import postgres from "../public/static/img/icons/Postgres.svg";
 import git from "../public/static/img/icons/git.svg";
 import python from "../public/static/img/icons/python.svg";
 import vscode from "../public/static/img/icons/Vscode.svg";
+import nest from "../public/static/img/icons/nestjs.svg";
+import next from "../public/static/img/icons/next-js.svg";
 
 export const stackData = [
   {
@@ -35,4 +37,6 @@ export const stackData = [
   { title: "Git", img: git },
   { title: "Python", img: python },
   { title: "VsCode", img: vscode },
+  { title: "Nest.js", img: nest },
+  { title: "Next.js", img: next },
 ];
