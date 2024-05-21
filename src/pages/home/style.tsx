@@ -9,7 +9,6 @@ import dots from "@/public/static/img/background/dots.svg";
 export const Header = styled("header", {
   backgroundColor: "$grey1",
   padding: "9rem 0 8rem 0",
-  backgroundImage: `url(${backgroundImg})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "right",
   backgroundAttachment: "fixed",
